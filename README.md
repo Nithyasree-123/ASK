@@ -154,4 +154,4 @@ plt.show()
 
 
 ## RESULTS:
-
+Thus the simple Python program for the modulation and demodulation of ASK and FSK is verified.
